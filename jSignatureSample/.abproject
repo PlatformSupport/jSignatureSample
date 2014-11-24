@@ -2,7 +2,7 @@
   "ProjectGuid": "ce9e49e3-095c-4b10-b9a1-35f6e442566e",
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
   "AppIdentifier": "com.telerik.PT823111",
-  "ProjectName": "PT823111",
+  "ProjectName": "jSignatureSample",
   "FrameworkVersion": "3.2.0",
   "AndroidPermissions": [
     "android.permission.CAMERA",
